@@ -72,6 +72,13 @@ The MasterClass is divided into the following modules, each with its own directo
 - Delivery tracking and analytics
 - User preference management and personalization
 
+### [15 - Spotify System Design 🎵](./15.%20Design%20Spotify)
+
+- Audio ingestion, transcoding, and CDN delivery
+- Adaptive bitrate streaming and chunked playback
+- Personalization and recommendation engine (Discover Weekly)
+- Search, playlist management, and social features
+
 ### Course Notes 📂
 
 - Contains notes from the course.
